@@ -48,11 +48,13 @@ Here is how you nest them
 ***
 
 ##### Inline code
+
 `This is an example of inline code.`
 
 ***
 
 #####Indented code
+
     Indent by at least four spaces
        You can always indent more
            if you wish
@@ -60,6 +62,7 @@ Here is how you nest them
 ***
 
 #####Block code
+
 ```
 This can
 go across
@@ -69,6 +72,7 @@ multiple lines
 ***
 
 #####Syntax highlight supported by GitHub Flavored Markdown
+
 ``` Python
 def greet(name):
     print 'Hello', name
@@ -89,8 +93,11 @@ greet('Jill')
 ***
 
 #####Link with a title & a tooltip
+
 [This is the title](https://www.google.com "This is the tooltip")
 
 ***
-#####Image is similar with a leading !
+
+#####Image is similar with a leading exclamation
+
 ![github is for socialcoding](http://entrepreneursky.com/wp-content/uploads/2014/03/github.jpg "Isn't it awesome!?")
