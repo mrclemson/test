@@ -2,7 +2,8 @@
 
 ##Second largest title
 
-###Third largest does not have a line below
+###Third largest title does not have a horizontal below
+***
 
 Horizental lines
 ___
@@ -18,10 +19,16 @@ Add `>` before any text you want to quote.
 > They will show like this.
 >> You can even nest them if you wish.
 >>> Nest some more :)))
+> End of nesting
 ***
 
 The following are all valid
 * valid bullet
 - valid bullet
 + valid bullet
++ Here is how you nest them
++ Item 1
+    + Item 1.1
+    + Item 1.2
++ Item 2
 
