@@ -93,4 +93,4 @@ greet('Jill')
 
 ***
 #####Image is similar with a leading !
-![Cap1 logo](https://www.capitalone.com/assets/rwd/img/logo/capitalone-logo-white.png "Isn't it awesome!?")
+![github is for socialcoding](http://entrepreneursky.com/wp-content/uploads/2014/03/github.jpg "Isn't it awesome!?")
