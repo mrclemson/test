@@ -75,3 +75,22 @@ def greet(name):
 greet('Jack')
 greet('Jill')
 ```
+
+***
+
+#####Tables (at least three dashes)
+
+| Column A | Column B |
+| ---| --:|
+| left aligned| right aligned |
+| cell A2 | cell B2 |
+| cell A3 | cell B3 |
+
+***
+
+#####Link with a title & a tooltip
+[This is the title](https://www.google.com "This is the tooltip")
+
+***
+#####Image is similar with a leading !
+![Cap1 logo](https://www.capitalone.com/assets/rwd/img/logo/capitalone-logo-white.png "Isn't it awesome!?")
