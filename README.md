@@ -47,4 +47,31 @@ Here is how you nest them
 
 ***
 
+##### Inline code
+`This is an example of inline code.`
 
+***
+
+#####Indented code
+    Indent by at least four spaces
+       You can always indent more
+           if you wish
+
+***
+
+#####Block code
+```
+This can
+go across
+multiple lines
+```
+
+***
+
+#####Syntax highlight supported by GitHub Flavored Markdown
+``` Python
+def greet(name):
+    print 'Hello', name
+greet('Jack')
+greet('Jill')
+```
